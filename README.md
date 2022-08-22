@@ -6,6 +6,10 @@ En este repo, se presenta la prueba para la empresa HomeElements, la cual cuenta
 
 En el repositorio se incluyen las 3 Partes de la prueba:
 1. TIENDA: Codigo implementando el lenguaje php con el framework de Laravel y implementando la base de datos mysql - se agrega igualmente la base de datos MYSQL como un archivo exportado.
+Dentro del Proyecto Tambien se incluye la prueba Api/rest. En donde si se llama a la ruta /api/productos  se observa el json con los productos disponibles. 
+En donde si se llama a la ruta /api/productos/{id}  se observa el json con un producto en especifico. 
+
+
 
 2. Se agrega un pdf con el informe y analisis de los datos, optenidos de la TIENDA: para analizar los datos se implemento el tablero interactivo Tableau. 
 
